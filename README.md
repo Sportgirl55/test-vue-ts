@@ -1,4 +1,11 @@
-# test-project-bash
+
+# Тестовое задание
+Небольшое приложение, которое получает данные с https://jsonplaceholder.typicode.com/users и выводит их на странице.
+Посмотреть можно здесь: https://sportgirl55.github.io/test-vue-ts/
+
+## Используемые технологии
+- Vue
+- TypeScript
 
 ## Project setup
 ```
